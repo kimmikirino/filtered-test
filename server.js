@@ -23,6 +23,7 @@ app.get("/employees/search/:name", function (req, res) {
 
   let employeeData = JSON.parse(rawdata);
 
+  console.log(req.params.name);
   const result = employeeData.employees.filter((emp) =>
     emp.name.toLowerCase().includes(req.params.name.toLowerCase())
   );

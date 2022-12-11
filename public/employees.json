@@ -1,0 +1,88 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Tony Stark",
+      "email": "tony.stark@avengers.com",
+      "username": "tonystark",
+      "role": "Genius"
+    },
+
+    {
+      "id": 2,
+      "name": "Steve Rogers",
+      "email": "steve.rogers@avengers.com",
+      "username": "steverogers",
+
+      "role": "Leader"
+    },
+
+    {
+      "id": 3,
+      "name": "Clint Barton",
+      "email": "clint.barton@avengers.com",
+      "username": "clintbarton",
+      "role": "Arrow Man"
+    },
+
+    {
+      "id": 4,
+      "name": "Natasha Romanoff",
+      "email": "natasha.romanoff@avengers.com",
+      "username": "natasharomanoff",
+
+      "role": "Master Spy"
+    },
+
+    {
+      "id": 5,
+      "name": "Thor Odinson",
+      "email": "thor.odinson@avengers.com",
+      "username": "thorodinson",
+      "role": "God Of Hammers"
+    },
+
+    {
+      "id": 6,
+      "name": "Nick Fury",
+      "email": "nick.fury@avengers.com",
+
+      "username": "nickfury",
+      "role": "Organizer Of Stuff"
+    },
+
+    {
+      "id": 7,
+      "name": "Bruce Banner",
+      "email": "bruce.banner@avengers.com",
+      "username": "brucebanner",
+      "role": "Smasher Of Things...also scientist"
+    },
+
+    {
+      "id": 8,
+      "name": "Maria Hill",
+      "email": "maria.hill@avengers.com",
+
+      "username": "mariahill",
+      "role": "CTO"
+    },
+
+    {
+      "id": 9,
+      "name": "Bucky Barnes",
+      "email": "bucky.barnes@avengers.com",
+      "username": "buckybarnes",
+      "role": "Winter Soldier"
+    },
+
+    {
+      "id": 10,
+      "name": "Peter Parker",
+      "email": "peter.parker@avengers.com",
+
+      "username": "peterparker",
+      "role": "Spiderman"
+    }
+  ]
+}
